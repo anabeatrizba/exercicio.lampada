@@ -1,0 +1,15 @@
+#container button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+  
+  .lightoff {
+    background-color: black;
+    transition: background-color 4s ease-out;
+  }
+  
+  .lighton {
+    background-color: white;
+    transition: background-color 4s ease-out; 
+  }
